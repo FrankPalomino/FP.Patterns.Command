@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Command.Exercice0", "FP.Patterns.Command.Exercice0.csproj", "{D723E4E5-AF87-4500-9216-4E47D7267BD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Command.Exercice1", "..\FP.Patterns.Command.Exercice1\FP.Patterns.Command.Exercice1.csproj", "{1EA4A68A-8849-466B-95B1-0ADD73E0D28E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Command.Exercice1", "..\FP.Patterns.Command.Exercice1\FP.Patterns.Command.Exercice1.csproj", "{1EA4A68A-8849-466B-95B1-0ADD73E0D28E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Command.Exercice2", "..\FP.Patterns.Command.Exercice2\FP.Patterns.Command.Exercice2.csproj", "{458ABA67-F623-4395-8371-87FBA7B864B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1EA4A68A-8849-466B-95B1-0ADD73E0D28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EA4A68A-8849-466B-95B1-0ADD73E0D28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EA4A68A-8849-466B-95B1-0ADD73E0D28E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{458ABA67-F623-4395-8371-87FBA7B864B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458ABA67-F623-4395-8371-87FBA7B864B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458ABA67-F623-4395-8371-87FBA7B864B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458ABA67-F623-4395-8371-87FBA7B864B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
