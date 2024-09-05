@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Command.Exercic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Command.Exercice2", "..\FP.Patterns.Command.Exercice2\FP.Patterns.Command.Exercice2.csproj", "{458ABA67-F623-4395-8371-87FBA7B864B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Command.Exercice3", "..\FP.Patterns.Command.Exercice3\FP.Patterns.Command.Exercice3.csproj", "{C9718797-C302-4ADE-AF35-7ED6C978516A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Command.Exercice3", "..\FP.Patterns.Command.Exercice3\FP.Patterns.Command.Exercice3.csproj", "{C9718797-C302-4ADE-AF35-7ED6C978516A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Command.Exercice4", "..\FP.Patterns.Command.Exercice4\FP.Patterns.Command.Exercice4.csproj", "{9760B586-13AE-4C13-806B-29F59FBD26DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{C9718797-C302-4ADE-AF35-7ED6C978516A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9718797-C302-4ADE-AF35-7ED6C978516A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9718797-C302-4ADE-AF35-7ED6C978516A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9760B586-13AE-4C13-806B-29F59FBD26DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9760B586-13AE-4C13-806B-29F59FBD26DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9760B586-13AE-4C13-806B-29F59FBD26DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9760B586-13AE-4C13-806B-29F59FBD26DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
